@@ -1,4 +1,3 @@
-# Aplicaci-n-para-12-perros
-Aplicación-para-12-perros
+cf push - ruta aleatoria
 cf set-env 12-perros DOG_BREED spaniel
 cf set-env 12-perros DOG_SUBBREED cocker
